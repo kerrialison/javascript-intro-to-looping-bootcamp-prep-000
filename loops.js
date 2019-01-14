@@ -9,7 +9,7 @@ function forLoop(array) {
   return array;
 }
 
-function whileLoop(n) {
+functio whileLo(n) {
   countdown = n;
   while (countdown > 0) {
     console.log(--countdown)
